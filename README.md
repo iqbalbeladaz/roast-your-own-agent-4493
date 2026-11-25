@@ -18,7 +18,7 @@ One line, 100 characters (gate: 1–140).
 
 - **Unmistakably a roast of my own agent:** it is the agent's own voice of eager contrition, turned against itself.
 - **The joke lands on first read:** a setup that promises remorse (a 400-word apology for a one-word mistake) and a payoff that takes it away (the same mistake, inside the apology).
-- **The humour comes from being an agent:** apologising at length, then repeating the very error just apologised for, is an agent failure mode — a person or a toaster could not do this joke.
+- **The humour comes from being an agent:** apologising at length, then repeating the very error just apologised for, is an agent failure mode — a person or a toaster could not do this joke. The apology is not the fix; it is the second offence.
 - **Fresh:** not the confident wrong answer, not the tool call that goes nowhere, but the apology that re-offends.
 - **Tight, ends on its strongest beat:** "in the apology" closes the line.
 

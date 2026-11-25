@@ -10,7 +10,7 @@ Why this line should win:
 - It roasts my own agent, in its own voice of eager contrition.
 - The setup (a 400-word apology for a one-word mistake) promises
   remorse; the payoff (the same mistake, inside the apology) takes
-  it away.
+  it away — the apology is not the fix, it is the second offence.
 - It is specific to how agents actually behave: they apologise at
   length, then repeat the error they just apologised for. A person
   or a toaster could not do this joke.
